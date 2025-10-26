@@ -1,0 +1,8 @@
+{
+    "name": "GitHub Org xplore-org Node.js CI Starter Workflow",
+    "description": "A starter workflow for Node.js projects in the xplore-org GitHub organization.",
+    "iconName": "octicon infinity-24",
+    "categories": [
+        "NPM CI"
+    ]
+}
